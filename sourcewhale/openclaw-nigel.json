@@ -1,6 +1,6 @@
 {
   "client_id": "https://lucid-directions.github.io/oauth-clients/sourcewhale/openclaw-nigel.json",
-  "client_name": "OpenClaw MCP (Nigel, Robertson Wright)",
+  "client_name": "OpenClaw MCP (Nigel, Lucid Directions)",
   "client_uri": "https://luciddirections.co.uk",
   "redirect_uris": [
     "http://127.0.0.1:8989/oauth/callback",
