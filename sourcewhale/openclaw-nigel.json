@@ -9,5 +9,5 @@
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
   "token_endpoint_auth_method": "none",
-  "scope": "people:read companies:read notes:read projects:read campaigns:read campaigns:write files:read todos:read meetings:read calls:read users:read team:read"
+  "scope": "people:read people:write companies:read notes:read projects:read campaigns:read campaigns:write files:read todos:read meetings:read calls:read users:read team:read"
 }
